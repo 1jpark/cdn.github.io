@@ -1141,7 +1141,7 @@
 			background-repeat: no-repeat;
 			background-size: 3em;
 			height: 5em;
-			opacity: 0;
+			opacity: 1;
 			position: absolute;
 			right: 0;
 			top: 0;
@@ -1229,7 +1229,7 @@
 		.poptrox-popup:hover .closer,
 		.poptrox-popup:hover .nav-previous,
 		.poptrox-popup:hover .nav-next {
-			opacity: 0.5;
+			opacity: 1;
 		}
 
 			.poptrox-popup:hover .closer:hover,
@@ -1245,7 +1245,7 @@
 		body.touch .poptrox-popup .closer,
 		body.touch .poptrox-popup .nav-previous,
 		body.touch .poptrox-popup .nav-next {
-			opacity: 1.0 !important;
+			opacity: 1.0 ;
 		}
 
 		@media screen and (max-width: 980px) {
@@ -1268,13 +1268,13 @@
 			}
 
 			.poptrox-popup .caption {
-				display: none !important;
+				display: none ;
 			}
 
 			.poptrox-popup .closer,
 			.poptrox-popup .nav-previous,
 			.poptrox-popup .nav-next {
-				display: none !important;
+				display: none ;
 			}
 
 		}
