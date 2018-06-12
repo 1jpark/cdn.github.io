@@ -1,5 +1,5 @@
-# cdn.github.io
-Júne's Webby Repository :: cdn.meson.one
+# Júne's Webby Repository 
+URL: https://cdn.meson.one/
 
 Stores ... 
 1. OpenGraph images 
