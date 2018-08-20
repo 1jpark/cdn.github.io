@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "the Great World Meson",
+    "short_name": "the Great World Meson",
     "icons": [
         {
             "src": "https://cdn.meson.one/favicon/june/android-chrome-192x192.png",
@@ -8,12 +8,12 @@
             "type": "image/png"
         },
         {
-            "src": "https://cdn.meson.one/favicon/june/android-chrome-256x256.png",
-            "sizes": "256x256",
+            "src": "https://cdn.meson.one/favicon/june/android-chrome-512x512.png",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#f25860",
+    "background_color": "#f25860",
     "display": "standalone"
 }
