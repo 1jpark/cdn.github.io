@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "J\u00fane's PiON Gateway",
+    "short_name": "J\u00fane's PiON Gateway",
     "icons": [
         {
             "src": "https://cdn.meson.one/favicon/pi/android-chrome-192x192.png",
@@ -13,7 +13,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#8a9221",
+    "background_color": "#8a9221",
+    "start_url": "https://pi.meson.one",
     "display": "standalone"
 }
