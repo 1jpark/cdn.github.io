@@ -3,7 +3,7 @@
     <msapplication>
         <tile>
             <square150x150logo src="https://cdn.meson.one/favicon/june/mstile-150x150.png"/>
-            <TileColor>#b91d47</TileColor>
+            <TileColor>#b11d24</TileColor>
         </tile>
     </msapplication>
 </browserconfig>
