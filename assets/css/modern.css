@@ -45,7 +45,10 @@ a{color:var(--primary)}
 @keyframes rip{to{transform:scale(1);opacity:0}}
 .chips{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0}
 .chip{display:inline-flex;align-items:center;height:32px;padding:0 14px;border:1px solid var(--outline);border-radius:8px;color:var(--on);text-decoration:none;font-size:14px;transition:background .2s,border-color .2s}
+.chip.icon{width:48px;height:48px;padding:0;justify-content:center;border-radius:50%;font-size:20px}
 .chip:hover{background:var(--surface-hi);border-color:var(--primary)}
+.chip.icon:hover{color:var(--primary);transform:translateY(-3px)}
+.chip.icon{transition:background .2s,border-color .2s,color .2s,transform .25s var(--ease)}
 
 /* hero */
 .hero{max-width:1200px;margin:0 auto;padding:clamp(48px,10vh,120px) clamp(16px,4vw,40px) 40px}
